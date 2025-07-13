@@ -23,6 +23,8 @@ project-folder/
 ├── assets/ # (Optional) Images, icons, SVGs, etc.
 └── README.md # You're here
 
+Live Link:-  https://royy-05.github.io/Modern-Landing-Page/
+
 🧠 Key Technologies
 HTML5 – Semantic structure
 CSS3 – Flexbox, transitions, gradients, media queries
